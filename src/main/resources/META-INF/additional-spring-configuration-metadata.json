@@ -1,0 +1,72 @@
+{"properties": [
+  {
+    "name": "laohei.domain.serverName",
+    "type": "java.lang.String",
+    "description": "A description for 'laohei.domain.serverName'"
+  },
+  {
+    "name": "laohei.domain.server-name",
+    "type": "java.lang.String",
+    "description": "A description for 'laohei.domain.server-name'"
+  },
+  {
+    "name": "ftp.server",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.server'"
+  },
+  {
+    "name": "ftp.port",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.port'"
+  },
+  {
+    "name": "ftp.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.userName'"
+  },
+  {
+    "name": "ftp.userPassword",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.userPassword'"
+  },
+  {
+    "name": "ftp.basePath",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.basePath'"
+  },
+  {
+    "name": "ftp.imageUrl",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.imageUrl'"
+  },
+  {
+    "name": "laohei.image.max-size",
+    "type": "java.lang.String",
+    "description": "A description for 'laohei.image.max-size'"
+  },
+  {
+    "name": "ftp.server",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.server'"
+  },
+  {
+    "name": "ftp.port",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.port'"
+  },
+  {
+    "name": "ftp.port",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.port'"
+  },
+  {
+    "name": "ftp.server",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.server'"
+  },
+  {
+    "name": "ftp.userName",
+    "type": "java.lang.String",
+    "description": "A description for 'ftp.userName'"
+  }
+]}
